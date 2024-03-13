@@ -1,0 +1,6 @@
+belt
+combatbot
+debris
+housebot
+minibot
+wheel
