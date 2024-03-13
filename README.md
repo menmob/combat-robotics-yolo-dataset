@@ -13,4 +13,5 @@ The labels in this dataset are:
 
 Use this dataset how you want, but please share the results of whatever you use it for!
 
-All images in this dataset were captured legally and are owned by their respective copyright holders.
+
+Most images in this dataset are from downloaded livestreams of combat robotics events. All images were captured legally and are owned by their respective copyright holders.
